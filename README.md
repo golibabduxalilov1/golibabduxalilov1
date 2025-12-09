@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/pLwKQqB/fullstack-banner.png" alt="Full Stack Developer Banner" />
+  <img src="./image.png" alt="Full Stack Developer Banner" />
 </p>
 
 # 👨‍💻 Whoami
