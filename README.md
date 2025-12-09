@@ -56,18 +56,3 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=golibabduxalilov1&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=golibabduxalilov1&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=golibabduxalilov1&theme=dark" />
-</p>
