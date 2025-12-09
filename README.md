@@ -19,35 +19,35 @@
 
 ---
 
-## 🛠 Languages
+## 🛠 Languages, Frameworks & Tools
+
 <p align="left">
 
-  <!-- JAVASCRIPT -->
+  <!-- LANGUAGES -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 
-  <!-- PYTHON -->
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 
-</p>
-
----
-
-## 🧩 Frameworks & Tools
-<p align="left">
-
-  <!-- DJANGO -->
+  <!-- FRAMEWORKS -->
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>
 
-  <!-- VUE.JS -->
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>
+
+  <!-- TOOLS -->
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+
+</p>
+
 
   <!-- POSTGRESQL -->
   <a href="https://www.postgresql.org" target="_blank"> 
