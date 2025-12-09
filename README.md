@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Golibjon Abduxalilov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">Python Backend & JavaScript Frontend Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=golibabduxalilov1&label=Profile%20views&color=0e75b6&style=flat" alt="golibabduxalilov1" />
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=golibabduxalilov1" alt="golibabduxalilov1" />
-  </a> 
 </p>
 
 ---
@@ -25,13 +19,15 @@
 
 ---
 
-## 🛠 Languages:
+## 🛠 Languages
 <p align="left">
 
+  <!-- JAVASCRIPT -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 
+  <!-- PYTHON -->
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -40,19 +36,21 @@
 
 ---
 
-## 🧩 Frameworks & Tools:
-
+## 🧩 Frameworks & Tools
 <p align="left">
 
+  <!-- DJANGO -->
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a>
+
+  <!-- VUE.JS -->
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <!-- POSTGRESQL -->
+  <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 
@@ -62,14 +60,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golibabduxalilov1&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=golibabduxalilov1&show_icons=true&theme=dark" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=golibabduxalilov1&show_icons=true&locale=en" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=golibabduxalilov1&layout=compact&theme=dark" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golibabduxalilov1" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=golibabduxalilov1&theme=dark" />
 </p>
