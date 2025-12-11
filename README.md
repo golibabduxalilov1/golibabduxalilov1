@@ -23,19 +23,13 @@ Here are the tools and technologies I use in my development workflow:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,powershell,stackoverflow,vscode,postman,netlify,heroku,aws,firebase&perline=20)](https://skillicons.dev)
-</p>
+
 
 ### ⚙️ Tools & Other Technologies
 TailwindCSS • Docker • Git • GitHub • Postman • PostgreSQL • Nginx • Vercel • Linux
 
 ---
 
-# 💬 My Blog Articles
-Coming soon...  
-(You can add your Medium, Dev.to, Hashnode, or personal blog here.)
-
----
 
 # 📫 Reach me on
 
